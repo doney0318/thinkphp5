@@ -3,26 +3,14 @@
 [![](https://img.shields.io/badge/php->=7.1-blue.svg)](https://github.com/yupoxiong/region)
 
 
- > 基于ThinkPHP5+AdminLTE的后台管理系统
- ## 演示地址
- * <https://bearadmin.yufuping.com/admin>
- * 帐号：demo
- * 密码：demo
-
- ## 开源地址
- * github:<https://github.com/yupoxiong/BearAdmin>
- * 码云:<https://gitee.com/yupoxiong/BearAdmin>
 
  ## 项目安装
  #### 第一步
  安装后台代码
  ```
- git clone https://github.com/yupoxiong/BearAdmin
+ git clone https://github.com/doney0318/thinkphp5
  ```
- 或
-```
- git clone https://gitee.com/yupoxiong/BearAdmin
-```
+
  #### 第二步
  安装TP框架与项目用到的扩展
  ```
